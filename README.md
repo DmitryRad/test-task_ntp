@@ -1,6 +1,6 @@
 ### Тестовое задание
 
-[> Ссылка на проект <](https://dmitryrad.github.io/margin-change/)
+[> Ссылка на проект <](https://dmitryrad.github.io/test-task_ntp/)
 
 ### Необходимо выполнить:
 - Убрать ссылку с главной страницы на саму себя.
