@@ -1,0 +1,58 @@
+* {
+    font-family: Arial, sans-serif;
+}
+
+table {
+    margin-right: 15px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+
+th, td {
+    width: 150px;
+    text-align: center;
+}
+
+.button {
+    display: flex;
+    grid-template-columns: auto;
+    justify-content: center;
+}
+
+#button {
+    align-items: center;
+    color: #fff;
+    background: linear-gradient(to bottom, #00acee, #0072e0);
+    font-size: 14px;
+    padding: 12px 26px;
+    border-radius: 15px;
+    border: 3px solid transparent;
+    cursor: pointer;
+}
+
+.news {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 50px;
+    margin: 0 50px;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+}
+
+.nav > div {
+    padding-inline-start: inherit;
+    margin-bottom: 30px;
+}
+
+.nav > div > a {
+    text-transform: uppercase;
+}
+
+
